@@ -1,2 +1,4 @@
-# project-ideas
-This repo contains list of project ideas with tags showing project level (Beginner, intermediate, expert).
+# Android Project Ideas
+
+- Nuemorphism Layout without using external Libraries/frameworks (Beginner) 
+- Firebase Firestore Pagination Implementation (Intermediate)
